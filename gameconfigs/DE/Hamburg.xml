@@ -1,0 +1,234 @@
+<BreitbandGameConfiguration version="2" buildtime="2024-07-09T10:24:52.895547">
+	<Country name="Germany, Hamburg" code="DE" state_name="Hamburg" state_code="DE-HH" />
+	<Description>Spielkonfiguration eines Staates/Bundeslandes mit 76 Städten in 7 Regionen und 41/121 Verträgen.</Description>
+	<MapCredits license="Open Data Commons Open Database License" licenseshort="ODbL" licenseversion="v1.0" licenselink="https://opendatacommons.org/licenses/odbl/1-0/" copyright="OpenStreetMap contributors" copyrightlink="https://www.openstreetmap.org/copyright/" />
+	<Regions>
+		<Region name="Bergedorf" wikidata="Q1637">
+			<Border points="3732,-23591 3733,-23591 3733,-23589 3734,-23589 3734,-23588 3735,-23588 3735,-23587 3736,-23587 3736,-23589 3737,-23589 3737,-23592 3736,-23592 3736,-23594 3738,-23594 3738,-23595 3737,-23595 3737,-23596 3735,-23599 3735,-23603 3736,-23602 3743,-23594 3744,-23594 3745,-23595 3745,-23596 3746,-23597 3747,-23597 3747,-23598 3748,-23599 3748,-23598 3749,-23600 3751,-23602 3751,-23603 3752,-23603 3752,-23602 3753,-23602 3754,-23601 3755,-23601 3755,-23600 3756,-23600 3756,-23599 3757,-23600 3758,-23600 3758,-23601 3759,-23602 3760,-23602 3761,-23603 3762,-23603 3763,-23602 3764,-23602 3766,-23600 3767,-23600 3767,-23599 3769,-23599 3770,-23600 3770,-23601 3771,-23601 3773,-23599 3774,-23599 3776,-23597 3777,-23597 3778,-23596 3779,-23596 3780,-23595 3780,-23594 3781,-23594 3781,-23595 3784,-23595 3785,-23596 3786,-23596 3787,-23598 3788,-23599 3789,-23599 3789,-23598 3790,-23597 3790,-23595 3791,-23594 3792,-23594 3792,-23591 3794,-23591 3794,-23590 3793,-23590 3793,-23588 3792,-23588 3792,-23586 3793,-23586 3793,-23584 3794,-23585 3794,-23584 3796,-23584 3796,-23585 3798,-23585 3798,-23580 3799,-23580 3799,-23576 3803,-23574 3804,-23573 3806,-23573 3807,-23572 3807,-23571 3809,-23571 3809,-23567 3810,-23567 3812,-23566 3811,-23564 3812,-23564 3812,-23563 3813,-23563 3813,-23562 3814,-23562 3815,-23561 3815,-23560 3816,-23561 3817,-23560 3818,-23560 3818,-23559 3820,-23557 3821,-23557 3821,-23556 3822,-23556 3820,-23554 3821,-23554 3821,-23552 3822,-23552 3822,-23551 3826,-23551 3826,-23556 3827,-23557 3828,-23557 3830,-23556 3831,-23555 3830,-23554 3830,-23553 3829,-23552 3828,-23550 3827,-23549 3828,-23549 3829,-23548 3829,-23546 3825,-23546 3825,-23545 3823,-23545 3823,-23544 3822,-23544 3822,-23543 3821,-23543 3819,-23541 3818,-23541 3818,-23540 3816,-23540 3816,-23539 3814,-23539 3812,-23538 3811,-23538 3810,-23537 3809,-23537 3808,-23536 3807,-23536 3807,-23535 3806,-23535 3805,-23534 3805,-23533 3804,-23532 3804,-23531 3803,-23529 3803,-23528 3802,-23528 3802,-23525 3801,-23525 3801,-23524 3800,-23523 3800,-23522 3798,-23522 3797,-23521 3795,-23521 3794,-23522 3789,-23522 3789,-23523 3785,-23523 3785,-23524 3784,-23524 3783,-23523 3780,-23523 3779,-23522 3776,-23522 3775,-23523 3773,-23523 3773,-23524 3772,-23524 3769,-23527 3768,-23527 3768,-23528 3767,-23529 3767,-23530 3765,-23534 3764,-23535 3764,-23536 3762,-23537 3761,-23538 3761,-23539 3755,-23539 3754,-23540 3752,-23540 3752,-23541 3751,-23541 3751,-23542 3750,-23542 3750,-23543 3749,-23543 3748,-23545 3748,-23547 3747,-23548 3746,-23550 3746,-23551 3744,-23554 3740,-23558 3738,-23559 3735,-23562 3735,-23564 3734,-23567 3734,-23571 3733,-23573 3732,-23574 3732,-23575 3731,-23576 3731,-23577 3730,-23577 3730,-23586 3731,-23587 3731,-23589 3732,-23590 3732,-23591" />
+			<City name="Billwerder" wikidata="Q2386" x="3761" y="-23586" maxconnections="2" />
+			<City name="Allermöhe" wikidata="Q2376" x="3757" y="-23577" maxconnections="2" />
+			<City name="Neuengamme" wikidata="Q2414" x="3795" y="-23548" maxconnections="3" />
+			<City name="Ochsenwerder" wikidata="Q2416" x="3741" y="-23571" maxconnections="3" />
+			<City name="Spadenland" wikidata="Q2420" x="3735" y="-23575" maxconnections="2" />
+			<City name="Bergedorf" wikidata="Q1637" x="3795" y="-23578" maxconnections="6" />
+			<City name="Nettelnburg" wikidata="Q1601723" x="3781" y="-23574" maxconnections="3" />
+			<City name="Kirchwerder" wikidata="Q2405" x="3785" y="-23537" maxconnections="3" />
+			<City name="Reitbrook" wikidata="Q2418" x="3767" y="-23567" maxconnections="2" />
+			<City name="Tatenberg" wikidata="Q2428" x="3740" y="-23583" maxconnections="2" />
+			<City name="Curslack" wikidata="Q2388" x="3796" y="-23555" maxconnections="3" />
+		</Region>
+		<Region name="Harburg" wikidata="Q1635">
+			<Border points="3625,-23590 3624,-23591 3623,-23591 3623,-23592 3624,-23596 3624,-23598 3625,-23598 3625,-23599 3626,-23600 3627,-23600 3627,-23599 3629,-23599 3629,-23601 3628,-23601 3628,-23602 3627,-23602 3627,-23604 3626,-23604 3626,-23605 3625,-23605 3625,-23606 3626,-23606 3625,-23607 3625,-23609 3624,-23611 3624,-23613 3626,-23613 3626,-23614 3627,-23614 3627,-23613 3628,-23613 3628,-23612 3630,-23611 3631,-23611 3631,-23610 3632,-23610 3633,-23609 3634,-23609 3635,-23608 3636,-23608 3636,-23607 3637,-23607 3638,-23606 3641,-23606 3642,-23605 3643,-23605 3643,-23604 3645,-23604 3645,-23605 3646,-23605 3646,-23603 3647,-23602 3647,-23600 3648,-23599 3648,-23598 3649,-23598 3650,-23597 3658,-23597 3659,-23598 3660,-23598 3661,-23599 3663,-23599 3664,-23598 3665,-23598 3665,-23599 3668,-23599 3668,-23598 3670,-23598 3670,-23597 3672,-23597 3672,-23596 3674,-23596 3674,-23595 3678,-23595 3678,-23596 3682,-23596 3682,-23597 3683,-23597 3684,-23598 3684,-23599 3685,-23599 3685,-23600 3686,-23600 3686,-23601 3687,-23601 3688,-23600 3688,-23592 3689,-23590 3689,-23588 3693,-23584 3693,-23582 3694,-23580 3695,-23579 3696,-23577 3697,-23576 3700,-23574 3702,-23572 3704,-23572 3705,-23571 3707,-23571 3709,-23570 3717,-23570 3718,-23571 3722,-23571 3723,-23570 3724,-23570 3725,-23569 3727,-23568 3727,-23567 3728,-23567 3728,-23566 3729,-23566 3729,-23565 3730,-23564 3729,-23564 3729,-23563 3728,-23563 3728,-23562 3726,-23560 3726,-23559 3727,-23559 3726,-23557 3729,-23555 3727,-23553 3723,-23553 3723,-23552 3721,-23552 3720,-23553 3720,-23554 3719,-23554 3716,-23551 3716,-23550 3718,-23550 3718,-23549 3720,-23549 3720,-23548 3721,-23548 3721,-23546 3719,-23545 3719,-23543 3718,-23543 3717,-23542 3717,-23543 3716,-23542 3716,-23543 3714,-23542 3714,-23543 3711,-23540 3710,-23540 3709,-23541 3709,-23540 3708,-23537 3706,-23537 3706,-23535 3705,-23535 3705,-23534 3704,-23534 3704,-23533 3702,-23533 3702,-23537 3701,-23537 3702,-23538 3701,-23538 3701,-23537 3700,-23538 3699,-23538 3699,-23539 3697,-23539 3696,-23540 3696,-23541 3695,-23541 3694,-23542 3691,-23542 3690,-23543 3689,-23542 3691,-23541 3689,-23538 3685,-23538 3685,-23537 3684,-23537 3683,-23536 3683,-23537 3680,-23534 3680,-23533 3679,-23533 3678,-23534 3676,-23534 3676,-23535 3677,-23536 3677,-23537 3678,-23538 3678,-23539 3679,-23539 3680,-23540 3679,-23541 3680,-23541 3679,-23543 3681,-23545 3681,-23546 3682,-23547 3681,-23549 3681,-23551 3680,-23551 3680,-23553 3679,-23554 3679,-23555 3678,-23555 3678,-23556 3677,-23556 3677,-23558 3676,-23558 3675,-23559 3674,-23559 3674,-23560 3673,-23560 3673,-23559 3674,-23558 3672,-23558 3672,-23559 3671,-23559 3671,-23558 3668,-23555 3668,-23556 3664,-23551 3662,-23551 3662,-23552 3661,-23551 3661,-23549 3660,-23550 3660,-23549 3659,-23549 3659,-23546 3660,-23546 3660,-23543 3659,-23543 3659,-23545 3658,-23545 3658,-23546 3657,-23546 3657,-23547 3656,-23548 3655,-23550 3653,-23553 3650,-23556 3646,-23559 3642,-23563 3641,-23563 3639,-23564 3639,-23566 3638,-23566 3638,-23568 3636,-23568 3637,-23570 3637,-23571 3636,-23571 3636,-23574 3637,-23574 3637,-23576 3636,-23576 3636,-23577 3637,-23578 3637,-23583 3632,-23583 3631,-23582 3630,-23582 3630,-23585 3631,-23587 3629,-23587 3630,-23588 3628,-23588 3628,-23589 3626,-23589 3626,-23590 3625,-23590" />
+			<City name="Gut Moor" wikidata="Q3485" x="3717" y="-23554" maxconnections="2" />
+			<City name="Moorburg" wikidata="Q3512" x="3687" y="-23579" maxconnections="2" />
+			<City name="Wilstorf" wikidata="Q3537" x="3705" y="-23553" maxconnections="4" />
+			<City name="Langenbek" wikidata="Q3504" x="3707" y="-23545" maxconnections="3" />
+			<City name="Neuenfelde" wikidata="Q3518" x="3639" y="-23598" maxconnections="3" />
+			<City name="Hausbruch" wikidata="Q3496" x="3668" y="-23569" maxconnections="4" />
+			<City name="Cranz" wikidata="Q3463" x="3628" y="-23610" maxconnections="2" />
+			<City name="Rönneburg" wikidata="Q3533" x="3713" y="-23545" maxconnections="3" />
+			<City name="Neuland" wikidata="Q3530" x="3722" y="-23567" maxconnections="2" />
+			<City name="Neugraben-Fischbek" wikidata="Q3525" x="3652" y="-23571" maxconnections="5" />
+			<City name="Marmstorf" wikidata="Q3507" x="3699" y="-23548" maxconnections="3" />
+		</Region>
+		<Region name="Hamburg-Mitte" wikidata="Q1626">
+			<Border points="3007,-23916 3115,-23918 3156,-23873 3168,-23860 3171,-23856 3177,-23841 3177,-23836 3179,-23822 3182,-23803 3182,-23802 3181,-23803 3175,-23813 3167,-23828 3131,-23833 3128,-23833 3094,-23856 3076,-23869 3065,-23877 3047,-23888 3007,-23916" />
+			<Border points="3626,-23614 3626,-23617 3627,-23618 3627,-23621 3628,-23622 3634,-23621 3636,-23621 3638,-23620 3643,-23619 3644,-23618 3648,-23617 3651,-23616 3655,-23615 3660,-23614 3663,-23614 3667,-23613 3692,-23613 3693,-23614 3696,-23614 3696,-23616 3695,-23616 3695,-23617 3694,-23617 3694,-23619 3695,-23620 3695,-23622 3696,-23624 3697,-23623 3697,-23622 3698,-23622 3699,-23623 3698,-23624 3699,-23624 3699,-23626 3700,-23626 3700,-23627 3705,-23627 3705,-23626 3706,-23626 3706,-23625 3707,-23625 3707,-23624 3708,-23624 3708,-23623 3709,-23623 3710,-23622 3710,-23623 3714,-23627 3716,-23625 3717,-23625 3719,-23624 3719,-23623 3720,-23623 3720,-23622 3721,-23622 3721,-23623 3722,-23623 3724,-23624 3724,-23625 3726,-23625 3726,-23626 3730,-23626 3730,-23627 3732,-23627 3733,-23628 3734,-23628 3735,-23626 3735,-23624 3737,-23624 3737,-23625 3739,-23625 3740,-23626 3744,-23626 3746,-23627 3749,-23627 3750,-23628 3753,-23628 3756,-23629 3761,-23629 3761,-23628 3764,-23628 3765,-23627 3766,-23627 3767,-23626 3768,-23626 3769,-23625 3770,-23625 3770,-23621 3769,-23621 3769,-23619 3768,-23619 3766,-23617 3766,-23615 3767,-23615 3767,-23612 3768,-23612 3768,-23610 3773,-23610 3773,-23608 3772,-23608 3772,-23607 3771,-23607 3771,-23605 3772,-23605 3771,-23604 3771,-23601 3770,-23601 3770,-23600 3769,-23599 3767,-23599 3767,-23600 3766,-23600 3764,-23602 3763,-23602 3762,-23603 3761,-23603 3760,-23602 3759,-23602 3758,-23601 3758,-23600 3757,-23600 3756,-23599 3756,-23600 3755,-23600 3755,-23601 3754,-23601 3753,-23602 3752,-23602 3752,-23603 3751,-23603 3751,-23602 3749,-23600 3748,-23598 3748,-23599 3747,-23598 3747,-23597 3746,-23597 3745,-23596 3745,-23595 3744,-23594 3743,-23594 3736,-23602 3735,-23603 3735,-23599 3737,-23596 3737,-23595 3738,-23595 3738,-23594 3736,-23594 3736,-23592 3737,-23592 3737,-23589 3736,-23589 3736,-23587 3735,-23587 3735,-23588 3734,-23588 3734,-23589 3733,-23589 3733,-23591 3732,-23591 3732,-23590 3731,-23589 3731,-23587 3730,-23586 3730,-23577 3731,-23577 3731,-23576 3732,-23575 3732,-23574 3733,-23573 3734,-23571 3734,-23567 3735,-23564 3735,-23562 3738,-23559 3740,-23558 3737,-23559 3735,-23559 3735,-23560 3732,-23562 3729,-23565 3729,-23566 3728,-23566 3728,-23567 3727,-23567 3727,-23568 3725,-23569 3724,-23570 3723,-23570 3722,-23571 3718,-23571 3717,-23570 3709,-23570 3707,-23571 3705,-23571 3704,-23572 3702,-23572 3700,-23574 3697,-23576 3696,-23577 3695,-23579 3694,-23580 3693,-23582 3693,-23584 3689,-23588 3689,-23590 3688,-23592 3688,-23600 3687,-23601 3686,-23601 3686,-23600 3685,-23600 3685,-23599 3684,-23599 3684,-23598 3683,-23597 3682,-23597 3682,-23596 3678,-23596 3678,-23595 3674,-23595 3674,-23596 3672,-23596 3672,-23597 3670,-23597 3670,-23598 3668,-23598 3668,-23599 3665,-23599 3665,-23598 3664,-23598 3663,-23599 3661,-23599 3660,-23598 3659,-23598 3658,-23597 3650,-23597 3649,-23598 3648,-23598 3648,-23599 3647,-23600 3647,-23602 3646,-23603 3646,-23605 3645,-23605 3645,-23604 3643,-23604 3643,-23605 3642,-23605 3641,-23606 3638,-23606 3637,-23607 3636,-23607 3636,-23608 3635,-23608 3634,-23609 3633,-23609 3632,-23610 3631,-23610 3631,-23611 3630,-23611 3628,-23612 3628,-23613 3627,-23613 3627,-23614 3626,-23614" />
+			<City name="Hamm" wikidata="Q1569" x="3730" y="-23620" maxconnections="5" />
+			<City name="Hammerbrook" wikidata="Q1570" x="3721" y="-23616" maxconnections="3" />
+			<City name="St. Georg" wikidata="Q1560" x="3716" y="-23622" maxconnections="4" />
+			<City name="Wilhelmsburg" wikidata="Q1068" x="3709" y="-23582" maxconnections="5" />
+			<City name="Hamburg" wikidata="Q1055" x="3711" y="-23618" maxconnections="6" />
+			<City name="Rothenburgsort" wikidata="Q1580" x="3724" y="-23608" maxconnections="3" />
+			<City name="Waltershof" wikidata="Q1586" x="3678" y="-23599" maxconnections="2" />
+			<City name="Finkenwerder" wikidata="Q1562" x="3658" y="-23606" maxconnections="4" />
+			<City name="Billbrook" wikidata="Q1567" x="3743" y="-23604" maxconnections="2" />
+			<City name="Neustadt" wikidata="Q1554" x="3703" y="-23618" maxconnections="4" />
+			<City name="Steinwerder" wikidata="Q1582" x="3696" y="-23611" maxconnections="2" />
+			<City name="Veddel" wikidata="Q1583" x="3718" y="-23603" maxconnections="3" />
+			<City name="Borgfelde" wikidata="Q1564" x="3723" y="-23621" maxconnections="3" />
+		</Region>
+		<Region name="Altona" wikidata="Q1630">
+			<Border points="3611,-23623 3611,-23625 3612,-23626 3612,-23630 3613,-23632 3613,-23635 3615,-23635 3615,-23636 3614,-23637 3613,-23637 3613,-23638 3612,-23638 3612,-23639 3615,-23642 3616,-23642 3616,-23644 3617,-23645 3616,-23646 3616,-23649 3617,-23650 3617,-23652 3618,-23651 3620,-23651 3620,-23653 3621,-23654 3621,-23656 3620,-23657 3619,-23657 3620,-23658 3620,-23659 3621,-23660 3621,-23663 3623,-23665 3623,-23666 3625,-23666 3625,-23663 3626,-23659 3628,-23658 3629,-23657 3631,-23656 3632,-23656 3633,-23655 3635,-23656 3636,-23655 3636,-23654 3634,-23652 3633,-23652 3633,-23650 3635,-23648 3635,-23647 3636,-23647 3638,-23645 3639,-23645 3639,-23644 3643,-23640 3645,-23640 3645,-23639 3646,-23639 3646,-23640 3648,-23640 3648,-23641 3650,-23641 3650,-23644 3651,-23644 3651,-23646 3653,-23646 3653,-23647 3654,-23647 3655,-23648 3657,-23648 3658,-23649 3658,-23652 3659,-23652 3659,-23654 3660,-23654 3661,-23655 3662,-23655 3662,-23657 3663,-23657 3665,-23655 3665,-23654 3666,-23654 3669,-23651 3670,-23651 3670,-23650 3671,-23650 3672,-23649 3673,-23649 3673,-23648 3674,-23648 3674,-23642 3675,-23641 3676,-23641 3676,-23643 3679,-23643 3679,-23642 3680,-23642 3680,-23638 3684,-23634 3684,-23633 3686,-23633 3686,-23631 3687,-23632 3687,-23631 3688,-23632 3689,-23632 3689,-23631 3690,-23631 3690,-23632 3692,-23630 3692,-23629 3693,-23629 3693,-23628 3695,-23627 3698,-23627 3698,-23628 3699,-23628 3699,-23629 3700,-23629 3701,-23627 3700,-23627 3700,-23626 3699,-23626 3699,-23624 3698,-23624 3699,-23623 3698,-23622 3697,-23622 3697,-23623 3696,-23624 3695,-23622 3695,-23620 3694,-23619 3694,-23617 3695,-23617 3695,-23616 3696,-23616 3696,-23614 3693,-23614 3692,-23613 3667,-23613 3663,-23614 3660,-23614 3655,-23615 3651,-23616 3648,-23617 3644,-23618 3643,-23619 3638,-23620 3636,-23621 3634,-23621 3628,-23622 3627,-23621 3621,-23621 3618,-23622 3614,-23622 3611,-23623" />
+			<City name="Iserbrook" wikidata="Q1605" x="3647" y="-23636" maxconnections="4" />
+			<City name="Nienstedten" wikidata="Q1601" x="3653" y="-23619" maxconnections="3" />
+			<City name="Groß Flottbek" wikidata="Q1606" x="3666" y="-23628" maxconnections="4" />
+			<City name="Altona-Nord" wikidata="Q1587" x="3690" y="-23625" maxconnections="4" />
+			<City name="Osdorf" wikidata="Q1600" x="3659" y="-23633" maxconnections="5" />
+			<City name="Bahrenfeld" wikidata="Q1608" x="3676" y="-23630" maxconnections="5" />
+			<City name="Lurup" wikidata="Q1602" x="3664" y="-23645" maxconnections="5" />
+			<City name="Altona-Altstadt" wikidata="Q1591" x="3690" y="-23618" maxconnections="5" />
+			<City name="Sülldorf" wikidata="Q1593" x="3635" y="-23638" maxconnections="3" />
+			<City name="Othmarschen" wikidata="Q1598" x="3669" y="-23621" maxconnections="4" />
+			<City name="Blankenese" wikidata="Q1607" x="3638" y="-23623" maxconnections="4" />
+			<City name="Ottensen" wikidata="Q1597" x="3681" y="-23621" maxconnections="5" />
+			<City name="Rissen" wikidata="Q1596" x="3620" y="-23640" maxconnections="4" />
+		</Region>
+		<Region name="Eimsbüttel" wikidata="Q1632">
+			<Border points="3662,-23657 3662,-23658 3663,-23659 3664,-23659 3664,-23660 3666,-23662 3667,-23662 3668,-23663 3670,-23664 3669,-23664 3668,-23665 3671,-23668 3671,-23669 3672,-23669 3672,-23671 3673,-23671 3673,-23672 3674,-23672 3674,-23673 3673,-23674 3676,-23675 3676,-23677 3675,-23678 3675,-23679 3676,-23680 3676,-23682 3679,-23682 3679,-23684 3680,-23683 3681,-23683 3681,-23684 3682,-23684 3681,-23683 3682,-23683 3683,-23682 3685,-23683 3685,-23682 3691,-23682 3691,-23681 3695,-23681 3696,-23680 3699,-23680 3699,-23681 3701,-23679 3702,-23680 3702,-23679 3703,-23679 3704,-23677 3705,-23674 3704,-23674 3704,-23669 3703,-23669 3703,-23666 3702,-23666 3701,-23665 3700,-23665 3700,-23664 3699,-23663 3698,-23663 3695,-23660 3695,-23659 3694,-23659 3695,-23658 3696,-23658 3696,-23659 3698,-23659 3699,-23660 3699,-23659 3698,-23658 3699,-23658 3699,-23657 3698,-23656 3698,-23652 3699,-23651 3700,-23651 3700,-23648 3701,-23648 3701,-23646 3700,-23645 3700,-23644 3699,-23643 3699,-23639 3700,-23639 3700,-23638 3701,-23638 3701,-23637 3702,-23636 3703,-23637 3703,-23638 3704,-23638 3704,-23639 3705,-23639 3705,-23640 3708,-23640 3709,-23639 3709,-23638 3710,-23638 3710,-23636 3712,-23634 3712,-23633 3713,-23632 3713,-23631 3714,-23627 3710,-23623 3710,-23622 3709,-23623 3708,-23623 3708,-23624 3707,-23624 3707,-23625 3706,-23625 3706,-23626 3705,-23626 3705,-23627 3701,-23627 3700,-23629 3699,-23629 3699,-23628 3698,-23628 3698,-23627 3695,-23627 3693,-23629 3692,-23629 3692,-23630 3690,-23632 3690,-23631 3689,-23631 3689,-23632 3688,-23632 3687,-23631 3687,-23632 3686,-23631 3686,-23633 3684,-23633 3684,-23634 3680,-23638 3680,-23642 3679,-23642 3679,-23643 3676,-23643 3676,-23641 3675,-23641 3674,-23642 3674,-23648 3673,-23648 3673,-23649 3672,-23649 3671,-23650 3670,-23650 3670,-23651 3669,-23651 3666,-23654 3665,-23654 3665,-23655 3663,-23657 3662,-23657" />
+			<City name="Harvestehude" wikidata="Q1613" x="3703" y="-23634" maxconnections="4" />
+			<City name="Schnelsen" wikidata="Q1620" x="3681" y="-23673" maxconnections="5" />
+			<City name="Eidelstedt" wikidata="Q1609" x="3680" y="-23652" maxconnections="5" />
+			<City name="Eimsbüttel" wikidata="Q1632" x="3692" y="-23632" maxconnections="6" />
+			<City name="Stellingen" wikidata="Q1621" x="3684" y="-23647" maxconnections="4" />
+			<City name="Lokstedt" wikidata="Q1614" x="3696" y="-23650" maxconnections="5" />
+			<City name="Rotherbaum" wikidata="Q1619" x="3706" y="-23629" maxconnections="4" />
+		</Region>
+		<Region name="Hamburg-Nord" wikidata="Q1627">
+			<Border points="3698,-23653 3698,-23656 3699,-23657 3699,-23658 3698,-23658 3699,-23659 3699,-23660 3698,-23659 3696,-23659 3696,-23658 3695,-23658 3694,-23659 3695,-23659 3695,-23660 3698,-23663 3699,-23663 3700,-23664 3700,-23665 3701,-23665 3702,-23666 3703,-23666 3703,-23669 3704,-23669 3704,-23674 3705,-23674 3704,-23677 3702,-23679 3702,-23680 3705,-23680 3705,-23679 3706,-23680 3706,-23684 3707,-23686 3707,-23687 3708,-23687 3707,-23688 3707,-23695 3708,-23695 3708,-23698 3709,-23698 3709,-23699 3710,-23700 3722,-23700 3726,-23701 3727,-23701 3727,-23700 3725,-23698 3724,-23696 3724,-23686 3723,-23685 3724,-23685 3724,-23682 3723,-23682 3723,-23681 3722,-23680 3722,-23679 3719,-23676 3719,-23675 3718,-23674 3719,-23673 3723,-23673 3723,-23672 3724,-23671 3724,-23670 3725,-23670 3725,-23669 3726,-23669 3726,-23670 3727,-23671 3728,-23671 3728,-23672 3731,-23672 3731,-23673 3732,-23673 3732,-23669 3733,-23669 3733,-23667 3735,-23668 3738,-23669 3740,-23669 3740,-23667 3741,-23667 3742,-23666 3742,-23664 3741,-23665 3741,-23664 3740,-23664 3740,-23663 3739,-23662 3739,-23661 3737,-23661 3736,-23662 3733,-23662 3732,-23661 3732,-23660 3731,-23660 3729,-23661 3729,-23660 3728,-23660 3728,-23658 3727,-23657 3727,-23654 3728,-23652 3729,-23651 3730,-23651 3731,-23650 3731,-23647 3732,-23646 3732,-23645 3735,-23645 3735,-23644 3736,-23644 3736,-23643 3738,-23643 3738,-23642 3739,-23643 3739,-23642 3738,-23642 3738,-23639 3737,-23639 3737,-23638 3736,-23637 3735,-23637 3735,-23636 3733,-23634 3731,-23634 3731,-23633 3729,-23632 3729,-23633 3728,-23632 3727,-23632 3726,-23631 3725,-23631 3725,-23630 3722,-23628 3723,-23627 3724,-23627 3724,-23624 3722,-23623 3721,-23623 3721,-23622 3720,-23622 3720,-23623 3719,-23623 3719,-23624 3717,-23625 3716,-23625 3714,-23627 3713,-23631 3713,-23632 3712,-23633 3712,-23634 3710,-23636 3710,-23638 3709,-23638 3709,-23639 3708,-23640 3705,-23640 3705,-23639 3704,-23639 3704,-23638 3703,-23638 3703,-23637 3702,-23636 3701,-23637 3701,-23638 3700,-23638 3700,-23639 3699,-23639 3699,-23643 3700,-23644 3700,-23645 3701,-23646 3701,-23648 3700,-23648 3700,-23651 3699,-23651 3698,-23652 3698,-23653" />
+			<City name="Groß Borstel" wikidata="Q1172" x="3706" y="-23655" maxconnections="3" />
+			<City name="Langenhorn" wikidata="Q1175" x="3714" y="-23689" maxconnections="5" />
+			<City name="Barmbek-Nord" wikidata="Q1138" x="3728" y="-23649" maxconnections="5" />
+			<City name="Barmbek-Süd" wikidata="Q1140" x="3727" y="-23637" maxconnections="5" />
+			<City name="Hohenfelde" wikidata="Q1147" x="3719" y="-23625" maxconnections="3" />
+			<City name="Eppendorf" wikidata="Q1153" x="3706" y="-23643" maxconnections="4" />
+			<City name="Winterhude" wikidata="Q1148" x="3712" y="-23647" maxconnections="5" />
+			<City name="Uhlenhorst" wikidata="Q1143" x="3715" y="-23631" maxconnections="4" />
+		</Region>
+		<Region name="Wandsbek" wikidata="Q1633">
+			<Border points="3718,-23674 3719,-23675 3719,-23676 3722,-23679 3722,-23680 3723,-23681 3723,-23682 3724,-23682 3724,-23685 3723,-23685 3724,-23686 3724,-23696 3725,-23698 3727,-23700 3727,-23701 3728,-23699 3730,-23698 3733,-23698 3735,-23699 3736,-23699 3735,-23702 3736,-23703 3734,-23703 3733,-23704 3734,-23705 3735,-23705 3735,-23706 3736,-23707 3736,-23709 3738,-23711 3739,-23711 3739,-23713 3740,-23714 3739,-23715 3738,-23715 3736,-23716 3738,-23718 3737,-23718 3736,-23719 3737,-23720 3738,-23719 3739,-23720 3741,-23725 3743,-23724 3746,-23724 3746,-23723 3747,-23723 3747,-23722 3748,-23722 3749,-23721 3753,-23721 3753,-23722 3754,-23722 3754,-23720 3756,-23720 3756,-23723 3757,-23723 3757,-23724 3758,-23724 3758,-23725 3759,-23725 3761,-23727 3762,-23727 3762,-23728 3764,-23728 3765,-23729 3765,-23730 3771,-23733 3771,-23736 3772,-23737 3772,-23736 3775,-23736 3776,-23735 3776,-23734 3777,-23734 3777,-23733 3778,-23733 3778,-23732 3780,-23732 3780,-23731 3783,-23731 3782,-23730 3782,-23726 3781,-23724 3779,-23721 3779,-23719 3778,-23718 3776,-23718 3776,-23719 3772,-23719 3772,-23718 3773,-23718 3773,-23717 3772,-23717 3771,-23716 3770,-23716 3770,-23715 3769,-23715 3769,-23713 3770,-23713 3770,-23706 3768,-23704 3767,-23704 3767,-23703 3768,-23702 3767,-23702 3767,-23701 3766,-23700 3765,-23700 3765,-23699 3764,-23699 3764,-23700 3763,-23699 3763,-23697 3765,-23697 3766,-23696 3768,-23696 3768,-23695 3769,-23695 3769,-23694 3768,-23694 3768,-23693 3770,-23693 3770,-23694 3771,-23694 3771,-23693 3772,-23693 3772,-23692 3775,-23692 3775,-23689 3776,-23689 3776,-23688 3777,-23688 3777,-23689 3779,-23689 3780,-23687 3780,-23684 3783,-23684 3783,-23681 3784,-23681 3784,-23678 3783,-23676 3783,-23675 3781,-23673 3783,-23673 3784,-23672 3790,-23672 3793,-23670 3791,-23669 3791,-23665 3790,-23665 3790,-23664 3787,-23664 3787,-23662 3785,-23662 3785,-23661 3784,-23661 3784,-23660 3783,-23660 3781,-23658 3781,-23656 3783,-23654 3783,-23652 3784,-23650 3784,-23649 3783,-23648 3783,-23647 3782,-23647 3782,-23645 3783,-23644 3783,-23643 3784,-23641 3785,-23640 3785,-23639 3784,-23638 3783,-23640 3780,-23639 3776,-23639 3774,-23638 3772,-23638 3771,-23639 3772,-23640 3770,-23640 3770,-23637 3769,-23637 3767,-23635 3767,-23631 3766,-23631 3766,-23629 3765,-23628 3765,-23627 3764,-23628 3761,-23628 3761,-23629 3756,-23629 3753,-23628 3750,-23628 3749,-23627 3746,-23627 3744,-23626 3740,-23626 3739,-23625 3737,-23625 3737,-23624 3735,-23624 3735,-23626 3734,-23628 3733,-23628 3732,-23627 3730,-23627 3730,-23626 3726,-23626 3726,-23625 3724,-23625 3724,-23627 3723,-23627 3722,-23628 3725,-23630 3725,-23631 3726,-23631 3727,-23632 3728,-23632 3729,-23633 3729,-23632 3731,-23633 3731,-23634 3733,-23634 3735,-23636 3735,-23637 3736,-23637 3737,-23638 3737,-23639 3738,-23639 3738,-23642 3739,-23642 3739,-23643 3738,-23642 3738,-23643 3736,-23643 3736,-23644 3735,-23644 3735,-23645 3732,-23645 3732,-23646 3731,-23647 3731,-23650 3730,-23651 3729,-23651 3728,-23652 3727,-23654 3727,-23657 3728,-23658 3728,-23660 3729,-23660 3729,-23661 3731,-23660 3732,-23660 3732,-23661 3733,-23662 3736,-23662 3737,-23661 3739,-23661 3739,-23662 3740,-23663 3740,-23664 3741,-23664 3741,-23665 3742,-23664 3742,-23666 3741,-23667 3740,-23667 3740,-23669 3738,-23669 3735,-23668 3733,-23667 3733,-23669 3732,-23669 3732,-23673 3731,-23673 3731,-23672 3728,-23672 3728,-23671 3727,-23671 3726,-23670 3726,-23669 3725,-23669 3725,-23670 3724,-23670 3724,-23671 3723,-23672 3723,-23673 3719,-23673 3718,-23674" />
+			<City name="Volksdorf" wikidata="Q1831" x="3772" y="-23680" maxconnections="4" />
+			<City name="Steilshoop" wikidata="Q1824" x="3732" y="-23656" maxconnections="4" />
+			<City name="Farmsen-Berne" wikidata="Q1808" x="3752" y="-23655" maxconnections="5" />
+			<City name="Jenfeld" wikidata="Q1814" x="3760" y="-23634" maxconnections="5" />
+			<City name="Sasel" wikidata="Q1821" x="3754" y="-23682" maxconnections="4" />
+			<City name="Bergstedt" wikidata="Q1641" x="3758" y="-23695" maxconnections="4" />
+			<City name="Poppenbüttel" wikidata="Q1818" x="3738" y="-23684" maxconnections="4" />
+			<City name="Eilbek" wikidata="Q1807" x="3728" y="-23628" maxconnections="4" />
+			<City name="Wandsbek" wikidata="Q1833" x="3739" y="-23634" maxconnections="6" />
+			<City name="Marienthal" wikidata="Q1816" x="3741" y="-23627" maxconnections="4" />
+			<City name="Rahlstedt" wikidata="Q1820" x="3769" y="-23652" maxconnections="5" />
+			<City name="Duvenstedt" wikidata="Q1806" x="3749" y="-23715" maxconnections="3" />
+			<City name="Wellingsbüttel" wikidata="Q1836" x="3744" y="-23676" maxconnections="4" />
+		</Region>
+	</Regions>
+	<ContractPool subsetsize="41">
+		<RegionContract id="RegionContract-Bergedorf" value="56" region="Bergedorf" />
+		<RegionContract id="RegionContract-Harburg" value="56" region="Harburg" />
+		<RegionContract id="RegionContract-Hamburg-Mitte" value="75" region="Hamburg-Mitte" />
+		<RegionContract id="RegionContract-Altona" value="67" region="Altona" />
+		<RegionContract id="RegionContract-Eimsbüttel" value="36" region="Eimsbüttel" />
+		<RegionContract id="RegionContract-Hamburg-Nord" value="41" region="Hamburg-Nord" />
+		<RegionContract id="RegionContract-Wandsbek" value="67" region="Wandsbek" />
+		<CityToCityContract id="CityToCityContract-Billwerder-Neuenfelde" value="31" a="Billwerder" b="Neuenfelde" />
+		<CityToCityContract id="CityToCityContract-Billwerder-Waltershof" value="21" a="Billwerder" b="Waltershof" />
+		<CityToCityContract id="CityToCityContract-Allermöhe-Altona-Nord" value="21" a="Allermöhe" b="Altona-Nord" />
+		<CityToCityContract id="CityToCityContract-Allermöhe-Rotherbaum" value="21" a="Allermöhe" b="Rotherbaum" />
+		<CityToCityContract id="CityToCityContract-Neuengamme-Moorburg" value="26" a="Neuengamme" b="Moorburg" />
+		<CityToCityContract id="CityToCityContract-Neuengamme-Neuenfelde" value="36" a="Neuengamme" b="Neuenfelde" />
+		<CityToCityContract id="CityToCityContract-Neuengamme-Rissen" value="46" a="Neuengamme" b="Rissen" />
+		<CityToCityContract id="CityToCityContract-Ochsenwerder-Sülldorf" value="31" a="Ochsenwerder" b="Sülldorf" />
+		<CityToCityContract id="CityToCityContract-Ochsenwerder-Eimsbüttel" value="21" a="Ochsenwerder" b="Eimsbüttel" />
+		<CityToCityContract id="CityToCityContract-Ochsenwerder-Eppendorf" value="21" a="Ochsenwerder" b="Eppendorf" />
+		<CityToCityContract id="CityToCityContract-Spadenland-Nienstedten" value="21" a="Spadenland" b="Nienstedten" />
+		<CityToCityContract id="CityToCityContract-Spadenland-Bahrenfeld" value="21" a="Spadenland" b="Bahrenfeld" />
+		<CityToCityContract id="CityToCityContract-Bergedorf-Gut_Moor" value="21" a="Bergedorf" b="Gut Moor" />
+		<CityToCityContract id="CityToCityContract-Bergedorf-Neustadt" value="26" a="Bergedorf" b="Neustadt" />
+		<CityToCityContract id="CityToCityContract-Bergedorf-Altona-Nord" value="26" a="Bergedorf" b="Altona-Nord" />
+		<CityToCityContract id="CityToCityContract-Bergedorf-Winterhude" value="26" a="Bergedorf" b="Winterhude" />
+		<CityToCityContract id="CityToCityContract-Bergedorf-Sasel" value="26" a="Bergedorf" b="Sasel" />
+		<CityToCityContract id="CityToCityContract-Bergedorf-Duvenstedt" value="36" a="Bergedorf" b="Duvenstedt" />
+		<CityToCityContract id="CityToCityContract-Nettelnburg-Wilstorf" value="21" a="Nettelnburg" b="Wilstorf" />
+		<CityToCityContract id="CityToCityContract-Nettelnburg-Harvestehude" value="26" a="Nettelnburg" b="Harvestehude" />
+		<CityToCityContract id="CityToCityContract-Nettelnburg-Eilbek" value="21" a="Nettelnburg" b="Eilbek" />
+		<CityToCityContract id="CityToCityContract-Kirchwerder-Hamburg" value="26" a="Kirchwerder" b="Hamburg" />
+		<CityToCityContract id="CityToCityContract-Kirchwerder-Altona-Altstadt" value="31" a="Kirchwerder" b="Altona-Altstadt" />
+		<CityToCityContract id="CityToCityContract-Kirchwerder-Langenhorn" value="36" a="Kirchwerder" b="Langenhorn" />
+		<CityToCityContract id="CityToCityContract-Reitbrook-Groß_Flottbek" value="26" a="Reitbrook" b="Groß Flottbek" />
+		<CityToCityContract id="CityToCityContract-Reitbrook-Ottensen" value="26" a="Reitbrook" b="Ottensen" />
+		<CityToCityContract id="CityToCityContract-Tatenberg-Bahrenfeld" value="21" a="Tatenberg" b="Bahrenfeld" />
+		<CityToCityContract id="CityToCityContract-Tatenberg-Blankenese" value="26" a="Tatenberg" b="Blankenese" />
+		<CityToCityContract id="CityToCityContract-Curslack-Gut_Moor" value="21" a="Curslack" b="Gut Moor" />
+		<CityToCityContract id="CityToCityContract-Curslack-Langenbek" value="21" a="Curslack" b="Langenbek" />
+		<CityToCityContract id="CityToCityContract-Curslack-Altona-Altstadt" value="31" a="Curslack" b="Altona-Altstadt" />
+		<CityToCityContract id="CityToCityContract-Moorburg-Winterhude" value="21" a="Moorburg" b="Winterhude" />
+		<CityToCityContract id="CityToCityContract-Wilstorf-Nienstedten" value="21" a="Wilstorf" b="Nienstedten" />
+		<CityToCityContract id="CityToCityContract-Wilstorf-Blankenese" value="26" a="Wilstorf" b="Blankenese" />
+		<CityToCityContract id="CityToCityContract-Wilstorf-Poppenbüttel" value="31" a="Wilstorf" b="Poppenbüttel" />
+		<CityToCityContract id="CityToCityContract-Langenbek-Altona-Altstadt" value="21" a="Langenbek" b="Altona-Altstadt" />
+		<CityToCityContract id="CityToCityContract-Langenbek-Farmsen-Berne" value="26" a="Langenbek" b="Farmsen-Berne" />
+		<CityToCityContract id="CityToCityContract-Neuenfelde-Schnelsen" value="21" a="Neuenfelde" b="Schnelsen" />
+		<CityToCityContract id="CityToCityContract-Hausbruch-St._Georg" value="16" a="Hausbruch" b="St. Georg" />
+		<CityToCityContract id="CityToCityContract-Hausbruch-Sülldorf" value="21" a="Hausbruch" b="Sülldorf" />
+		<CityToCityContract id="CityToCityContract-Hausbruch-Barmbek-Süd" value="21" a="Hausbruch" b="Barmbek-Süd" />
+		<CityToCityContract id="CityToCityContract-Hausbruch-Eppendorf" value="21" a="Hausbruch" b="Eppendorf" />
+		<CityToCityContract id="CityToCityContract-Cranz-Langenhorn" value="26" a="Cranz" b="Langenhorn" />
+		<CityToCityContract id="CityToCityContract-Cranz-Eppendorf" value="21" a="Cranz" b="Eppendorf" />
+		<CityToCityContract id="CityToCityContract-Rönneburg-Ottensen" value="21" a="Rönneburg" b="Ottensen" />
+		<CityToCityContract id="CityToCityContract-Rönneburg-Barmbek-Nord" value="26" a="Rönneburg" b="Barmbek-Nord" />
+		<CityToCityContract id="CityToCityContract-Rönneburg-Eppendorf" value="26" a="Rönneburg" b="Eppendorf" />
+		<CityToCityContract id="CityToCityContract-Neuland-Bahrenfeld" value="21" a="Neuland" b="Bahrenfeld" />
+		<CityToCityContract id="CityToCityContract-Neuland-Groß_Borstel" value="21" a="Neuland" b="Groß Borstel" />
+		<CityToCityContract id="CityToCityContract-Neugraben-Fischbek-Rothenburgsort" value="21" a="Neugraben-Fischbek" b="Rothenburgsort" />
+		<CityToCityContract id="CityToCityContract-Neugraben-Fischbek-Veddel" value="21" a="Neugraben-Fischbek" b="Veddel" />
+		<CityToCityContract id="CityToCityContract-Neugraben-Fischbek-Eidelstedt" value="21" a="Neugraben-Fischbek" b="Eidelstedt" />
+		<CityToCityContract id="CityToCityContract-Neugraben-Fischbek-Uhlenhorst" value="21" a="Neugraben-Fischbek" b="Uhlenhorst" />
+		<CityToCityContract id="CityToCityContract-Neugraben-Fischbek-Eilbek" value="21" a="Neugraben-Fischbek" b="Eilbek" />
+		<CityToCityContract id="CityToCityContract-Marmstorf-Eimsbüttel" value="21" a="Marmstorf" b="Eimsbüttel" />
+		<CityToCityContract id="CityToCityContract-Marmstorf-Barmbek-Nord" value="26" a="Marmstorf" b="Barmbek-Nord" />
+		<CityToCityContract id="CityToCityContract-Marmstorf-Rahlstedt" value="31" a="Marmstorf" b="Rahlstedt" />
+		<CityToCityContract id="CityToCityContract-Hamm-Finkenwerder" value="21" a="Hamm" b="Finkenwerder" />
+		<CityToCityContract id="CityToCityContract-Hamm-Schnelsen" value="21" a="Hamm" b="Schnelsen" />
+		<CityToCityContract id="CityToCityContract-Hammerbrook-Iserbrook" value="21" a="Hammerbrook" b="Iserbrook" />
+		<CityToCityContract id="CityToCityContract-Hammerbrook-Rissen" value="26" a="Hammerbrook" b="Rissen" />
+		<CityToCityContract id="CityToCityContract-Hammerbrook-Sasel" value="21" a="Hammerbrook" b="Sasel" />
+		<CityToCityContract id="CityToCityContract-St._Georg-Duvenstedt" value="26" a="St. Georg" b="Duvenstedt" />
+		<CityToCityContract id="CityToCityContract-Wilhelmsburg-Lurup" value="21" a="Wilhelmsburg" b="Lurup" />
+		<CityToCityContract id="CityToCityContract-Wilhelmsburg-Sülldorf" value="21" a="Wilhelmsburg" b="Sülldorf" />
+		<CityToCityContract id="CityToCityContract-Wilhelmsburg-Eidelstedt" value="21" a="Wilhelmsburg" b="Eidelstedt" />
+		<CityToCityContract id="CityToCityContract-Wilhelmsburg-Steilshoop" value="21" a="Wilhelmsburg" b="Steilshoop" />
+		<CityToCityContract id="CityToCityContract-Wilhelmsburg-Rahlstedt" value="21" a="Wilhelmsburg" b="Rahlstedt" />
+		<CityToCityContract id="CityToCityContract-Rothenburgsort-Schnelsen" value="21" a="Rothenburgsort" b="Schnelsen" />
+		<CityToCityContract id="CityToCityContract-Waltershof-Langenhorn" value="26" a="Waltershof" b="Langenhorn" />
+		<CityToCityContract id="CityToCityContract-Finkenwerder-Farmsen-Berne" value="26" a="Finkenwerder" b="Farmsen-Berne" />
+		<CityToCityContract id="CityToCityContract-Finkenwerder-Rahlstedt" value="31" a="Finkenwerder" b="Rahlstedt" />
+		<CityToCityContract id="CityToCityContract-Finkenwerder-Duvenstedt" value="31" a="Finkenwerder" b="Duvenstedt" />
+		<CityToCityContract id="CityToCityContract-Billbrook-Osdorf" value="21" a="Billbrook" b="Osdorf" />
+		<CityToCityContract id="CityToCityContract-Billbrook-Lurup" value="21" a="Billbrook" b="Lurup" />
+		<CityToCityContract id="CityToCityContract-Steinwerder-Langenhorn" value="21" a="Steinwerder" b="Langenhorn" />
+		<CityToCityContract id="CityToCityContract-Steinwerder-Rahlstedt" value="21" a="Steinwerder" b="Rahlstedt" />
+		<CityToCityContract id="CityToCityContract-Veddel-Blankenese" value="21" a="Veddel" b="Blankenese" />
+		<CityToCityContract id="CityToCityContract-Veddel-Schnelsen" value="21" a="Veddel" b="Schnelsen" />
+		<CityToCityContract id="CityToCityContract-Borgfelde-Iserbrook" value="21" a="Borgfelde" b="Iserbrook" />
+		<CityToCityContract id="CityToCityContract-Borgfelde-Bergstedt" value="21" a="Borgfelde" b="Bergstedt" />
+		<CityToCityContract id="CityToCityContract-Iserbrook-Poppenbüttel" value="26" a="Iserbrook" b="Poppenbüttel" />
+		<CityToCityContract id="CityToCityContract-Iserbrook-Wellingsbüttel" value="26" a="Iserbrook" b="Wellingsbüttel" />
+		<CityToCityContract id="CityToCityContract-Nienstedten-Langenhorn" value="21" a="Nienstedten" b="Langenhorn" />
+		<CityToCityContract id="CityToCityContract-Groß_Flottbek-Steilshoop" value="16" a="Groß Flottbek" b="Steilshoop" />
+		<CityToCityContract id="CityToCityContract-Groß_Flottbek-Jenfeld" value="21" a="Groß Flottbek" b="Jenfeld" />
+		<CityToCityContract id="CityToCityContract-Groß_Flottbek-Sasel" value="26" a="Groß Flottbek" b="Sasel" />
+		<CityToCityContract id="CityToCityContract-Altona-Nord-Bergstedt" value="26" a="Altona-Nord" b="Bergstedt" />
+		<CityToCityContract id="CityToCityContract-Altona-Nord-Rahlstedt" value="21" a="Altona-Nord" b="Rahlstedt" />
+		<CityToCityContract id="CityToCityContract-Osdorf-Farmsen-Berne" value="21" a="Osdorf" b="Farmsen-Berne" />
+		<CityToCityContract id="CityToCityContract-Osdorf-Jenfeld" value="26" a="Osdorf" b="Jenfeld" />
+		<CityToCityContract id="CityToCityContract-Osdorf-Wandsbek" value="21" a="Osdorf" b="Wandsbek" />
+		<CityToCityContract id="CityToCityContract-Osdorf-Wellingsbüttel" value="21" a="Osdorf" b="Wellingsbüttel" />
+		<CityToCityContract id="CityToCityContract-Bahrenfeld-Bergstedt" value="26" a="Bahrenfeld" b="Bergstedt" />
+		<CityToCityContract id="CityToCityContract-Bahrenfeld-Poppenbüttel" value="21" a="Bahrenfeld" b="Poppenbüttel" />
+		<CityToCityContract id="CityToCityContract-Lurup-Farmsen-Berne" value="21" a="Lurup" b="Farmsen-Berne" />
+		<CityToCityContract id="CityToCityContract-Lurup-Wandsbek" value="21" a="Lurup" b="Wandsbek" />
+		<CityToCityContract id="CityToCityContract-Lurup-Wellingsbüttel" value="21" a="Lurup" b="Wellingsbüttel" />
+		<CityToCityContract id="CityToCityContract-Othmarschen-Steilshoop" value="21" a="Othmarschen" b="Steilshoop" />
+		<CityToCityContract id="CityToCityContract-Othmarschen-Farmsen-Berne" value="21" a="Othmarschen" b="Farmsen-Berne" />
+		<CityToCityContract id="CityToCityContract-Othmarschen-Sasel" value="26" a="Othmarschen" b="Sasel" />
+		<CityToCityContract id="CityToCityContract-Othmarschen-Poppenbüttel" value="21" a="Othmarschen" b="Poppenbüttel" />
+		<CityToCityContract id="CityToCityContract-Blankenese-Steilshoop" value="26" a="Blankenese" b="Steilshoop" />
+		<CityToCityContract id="CityToCityContract-Ottensen-Jenfeld" value="21" a="Ottensen" b="Jenfeld" />
+		<CityToCityContract id="CityToCityContract-Ottensen-Wellingsbüttel" value="21" a="Ottensen" b="Wellingsbüttel" />
+		<CityToCityContract id="CityToCityContract-Rissen-Volksdorf" value="36" a="Rissen" b="Volksdorf" />
+		<CityToCityContract id="CityToCityContract-Rissen-Marienthal" value="31" a="Rissen" b="Marienthal" />
+		<CityToCityContract id="CityToCityContract-Harvestehude-Volksdorf" value="21" a="Harvestehude" b="Volksdorf" />
+		<CityToCityContract id="CityToCityContract-Schnelsen-Marienthal" value="21" a="Schnelsen" b="Marienthal" />
+		<CityToCityContract id="CityToCityContract-Eidelstedt-Jenfeld" value="21" a="Eidelstedt" b="Jenfeld" />
+		<CityToCityContract id="CityToCityContract-Stellingen-Volksdorf" value="21" a="Stellingen" b="Volksdorf" />
+		<CityToCityContract id="CityToCityContract-Stellingen-Jenfeld" value="21" a="Stellingen" b="Jenfeld" />
+		<CityToCityContract id="CityToCityContract-Stellingen-Bergstedt" value="21" a="Stellingen" b="Bergstedt" />
+		<CityToCityContract id="CityToCityContract-Rotherbaum-Volksdorf" value="21" a="Rotherbaum" b="Volksdorf" />
+	</ContractPool>
+	<CableConfigs endinglength="2288">
+		<CableConfig type="Glasfaser" value="5" distancepercable="24" maxdistance="72" cancrossborders="true" cancrosscables="Postkutsche,Taube" fontawesome="lightbulb" emoji="light bulb" />
+		<CableConfig type="Kupfer" value="3" distancepercable="18" maxdistance="45" cancrossborders="false" cancrosscables="Postkutsche,Taube" fontawesome="bolt" emoji="high voltage" />
+		<CableConfig type="Taube" value="2" distancepercable="12" maxdistance="24" cancrossborders="true" cancrosscables="Kupfer,Glasfaser" fontawesome="dove" emoji="dove" />
+		<CableConfig type="Postkutsche" value="1" distancepercable="6" maxdistance="15" cancrossborders="false" cancrosscables="Kupfer,Glasfaser" fontawesome="envelope" emoji="envelope" />
+	</CableConfigs>
+</BreitbandGameConfiguration>

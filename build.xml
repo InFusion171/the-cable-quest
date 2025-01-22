@@ -1,0 +1,96 @@
+<project name="TheCableQuest" default="default" basedir=".">
+	<description>
+		Ant Build File für The Cable Quest, das APP Spiel im Sommersemester 2024.
+        Verbrochen on Marc-Arne.
+	</description>
+
+
+	<!-- global properties -->
+	<property name="src" location="src"/>
+	<property name="build" location="build"/>
+	<property name="dist" location="dist"/>
+	<property name="doc" location="doc"/>
+	<property name="lib" location="lib"/>
+	
+
+    <!-- modify -->
+    <property name="main.class" value="thecablequest.GameStarter"/> <!--  insert main class -->
+    <property name="lib.dir" location="lib"/>
+    <property name="jar.dir" location="${build}/jar"/>
+    
+  <!-- classpath for build, doc and dist -->
+	<path id="build.classpath">
+	<fileset dir="${lib}" includes="*.jar" />
+	</path>
+
+	<pathconvert property="manifest.classpath" pathsep=" ">
+		<path refid="build.classpath"/>
+		<mapper>
+		<chainedmapper>
+				<flattenmapper/>
+				<globmapper from="*.jar" to="${lib}/*.jar"/>
+			</chainedmapper>
+		</mapper>
+	</pathconvert>
+
+
+
+    <target name="init">
+        <!-- Create the time stamp -->
+        <tstamp/>
+        <!-- Create the build directory structure used by compile -->
+        <mkdir dir="${build}"/>
+    </target>
+
+    <target name="compile" depends="init"
+        description="compile the source">
+        
+        <!-- Compile the Java code from ${src} into ${build} -->
+        <javac srcdir="${src}" destdir="${build}" classpathref="build.classpath" includeantruntime="false" debug="true" debuglevel="lines,vars,source"/>
+    </target>
+
+    <!-- Erzeugen der Dokumentation -->
+    <target name="javadoc">
+        <mkdir dir="${doc}"/>
+        <javadoc sourcepath="${src}" destdir="${doc}" private = "true" author="true" version="true">
+            <classpath refid="build.classpath"/>
+
+			<link href="https://app.pages.gwdg.de/sag/doc/"/>
+			<link href="https://docs.oracle.com/en/java/javase/11/docs/api/"/>
+            <fileset dir= "${src}" >
+                <include name="**/*.java"/>
+            
+            </fileset>
+            <!--package name="thecablequest"/-->
+        </javadoc>
+    </target>
+
+    
+    <!-- Build target -->
+    <target name="build" depends="clean, compile">
+        <mkdir dir="${dist}"/>
+        <jar destfile="${dist}/TheCableQuest.jar" basedir="${build}">
+            <zipgroupfileset dir="lib" includes="*.jar"/>
+            <manifest>
+                <attribute name="Main-Class" value="${main.class}"/>
+                <attribute name="Class-Path" value="${manifest.classpath}"/>
+            </manifest>
+        </jar>
+        <!-- delete dir="${build}"/-->
+    </target>
+    <target name="run">
+        <java jar="./dist/TheCableQuest.jar" fork="true">
+            <arg line="-c ./gameconfigs/DE.xml -d 100 -g -pt RANDOM_AI RANDOM_AI RANDOM_AI RANDOM_AI  -pc RED BLUE ORANGE GREEN  -pn Rot Blau Orange Gruen"/>
+        </java>
+    </target>
+
+
+
+    <target name="clean">
+        <!-- Delete all build and doc directory -->
+        <delete dir="${build}"/>
+		<!--delete dir="${doc}"/-->
+        <delete dir="${dist}"/>
+    </target>
+
+</project>
